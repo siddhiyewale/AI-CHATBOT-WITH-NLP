@@ -1,0 +1,7 @@
+{
+  "greeting": ["Hello!", "Hi there!", "Hey! How can I help you?"],
+  "goodbye": ["Bye!", "Goodbye!", "See you later!"],
+  "thanks": ["You're welcome!", "No problem!", "Anytime!"],
+  "name": ["I am a chatbot created using Python and NLTK."],
+  "default": ["I'm sorry, I don't understand that."]
+}
